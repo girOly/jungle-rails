@@ -2,6 +2,9 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+![Home Page](https://github.com/girOly/jungle-rails/blob/master/docs/Jungle.png?raw=true)
+
+![Checkout](https://github.com/girOly/jungle-rails/blob/master/docs/Junglecheckout.png?raw=true)
 
 ## Setup
 
